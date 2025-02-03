@@ -1,0 +1,31 @@
+{
+  "name": "ultravox-bambisleep-chat",
+  "version": "0.0.1",
+  "description": "ultravox bambisleep.chat implementation to debug the issues with ultravox-client-api-sdk & the npm package ultravox-client",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarleyVader/ultravox-bambisleep-chat.git"
+  },
+  "keywords": [
+    "ES6",
+    "EJS",
+    "nodejs",
+    "http",
+    "server",
+    "using",
+    "express",
+    "mongoose",
+    "no",
+    "frameworks"
+  ],
+  "author": "melkanea",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/HarleyVader/ultravox-bambisleep-chat/issues"
+  },
+  "homepage": "https://github.com/HarleyVader/ultravox-bambisleep-chat#readme"
+}
