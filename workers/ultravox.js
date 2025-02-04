@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 import { parentPort } from 'worker_threads';
 import { UltravoxClientModule } from 'ultravox-client';
-import { colors } from '../middleware/bambisleepChalk.js';
+import bambisleepChalk from '../middleware/bambisleepChalk.js';
 
 dotenv.config();
 
