@@ -17,6 +17,10 @@ app.get('/', (req, res) => {
   res.render('index');
 });
 
+app.get('/fibonacci', (req, res) => {
+  res.render('fibonacci');
+});
+
 io.on('connection', (socket) => {
   console.log('a user connected');
   
